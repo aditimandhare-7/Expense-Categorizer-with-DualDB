@@ -181,9 +181,8 @@ You can add Postman screenshots, DB screenshots, and charts here.
 
 ## 👨‍💻 Author
 
-**Sujal Gangarde**  
-[GitHub Profile](https://github.com/sujalgangarde)  
-Project by a developer for developers and freelancers 🚀
+**Aditi Mandhare**  
+[GitHub Profile](https://github.com/aditimandhare-7)
 
 ---
 
