@@ -1,0 +1,7 @@
+description,merchant,amount,date,method,notes,tags
+Pizza dinner,Domino's,450.00,2025-07-01,Credit Card,Friday treat,"['food', 'takeout']"
+Uber ride to office,Uber,120.00,2025-07-02,UPI,Morning commute,"['travel', 'work']"
+Electric bill,Tata Power,2200.00,2025-07-01,Net Banking,June electricity,"['utilities', 'bills']"
+Lunch,KFC,320.00,2025-07-03,Cash,,"['food']"
+Cab to airport,Ola,800.00,2025-07-04,UPI,Airport drop,"['travel']"
+Paid electricity,Torrent,2100.00,2025-07-05,Debit Card,July bill,"['utilities']"
